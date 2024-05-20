@@ -1,5 +1,5 @@
 const addition = (a: number, b: number): number => {
-          return a + b;
+        return a + b;
 };
 
 const number1: number = 5;
